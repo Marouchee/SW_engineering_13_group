@@ -1,0 +1,99 @@
+{
+  "_type": "Project",
+  "_name": "BicycleRentalProject",
+  "ownedElements": [
+    {
+      "_type": "UMLModel",
+      "_name": "Main",
+      "ownedElements": [
+        {
+          "_type": "UMLUseCaseDiagram",
+          "_name": "UseCaseDiagram1",
+          "ownedElements": [
+            {
+              "_type": "UMLActor",
+              "_id": "actor1",
+              "_name": "회원"
+            },
+            {
+              "_type": "UMLUseCase",
+              "_id": "uc1",
+              "_name": "대여소 검색"
+            },
+            {
+              "_type": "UMLUseCase",
+              "_id": "uc2",
+              "_name": "대여소 상세정보 조회"
+            },
+            {
+              "_type": "UMLUseCase",
+              "_id": "uc3",
+              "_name": "자전거 즉시 대여"
+            },
+            {
+              "_type": "UMLUseCase",
+              "_id": "uc4",
+              "_name": "자전거 예약 대기 신청"
+            },
+            {
+              "_type": "UMLUseCase",
+              "_id": "uc5",
+              "_name": "대여 완료 문자 알림 전송"
+            },
+            {
+              "_type": "UMLUseCase",
+              "_id": "uc6",
+              "_name": "예약 대기 완료 문자 알림 전송"
+            },
+            {
+              "_type": "UMLAssociation",
+              "end1": {
+                "reference": "actor1"
+              },
+              "end2": {
+                "reference": "uc1"
+              }
+            },
+            {
+              "_type": "UMLAssociation",
+              "end1": {
+                "reference": "actor1"
+              },
+              "end2": {
+                "reference": "uc2"
+              }
+            },
+            {
+              "_type": "UMLAssociation",
+              "end1": {
+                "reference": "actor1"
+              },
+              "end2": {
+                "reference": "uc3"
+              }
+            },
+            {
+              "_type": "UMLAssociation",
+              "end1": {
+                "reference": "actor1"
+              },
+              "end2": {
+                "reference": "uc4"
+              }
+            },
+            {
+              "_type": "UMLExtend",
+              "_source": "uc3",
+              "_target": "uc5"
+            },
+            {
+              "_type": "UMLExtend",
+              "_source": "uc4",
+              "_target": "uc6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
