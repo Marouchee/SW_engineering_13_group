@@ -1054,11 +1054,11 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 663,
+											"left": 681,
 											"top": 294.5,
-											"width": 114,
+											"width": 201,
 											"height": 13,
-											"text": "정렬 기준 변경"
+											"text": "과거 이용 내역 대여소별 정렬 기준 변경"
 										},
 										{
 											"_type": "LabelView",
@@ -1092,9 +1092,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 658,
+									"left": 676,
 									"top": 287.5,
-									"width": 124,
+									"width": 211.5908203125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWpIUaKxQGcfg="
@@ -1200,7 +1200,7 @@
 							"containerChangeable": true,
 							"left": 632,
 							"top": 256,
-							"width": 176,
+							"width": 299,
 							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWpIUaKxQFw0o="
@@ -1651,11 +1651,11 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 672,
+											"left": 689,
 											"top": 542.5,
-											"width": 120,
+											"width": 201,
 											"height": 13,
-											"text": "정렬 기준 변경"
+											"text": "자전거 대여 정보 지역별 정렬 기준 변경"
 										},
 										{
 											"_type": "LabelView",
@@ -1687,9 +1687,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 667,
+									"left": 684,
 									"top": 535.5,
-									"width": 130,
+									"width": 211.5908203125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWpIhjZxxHtas="
@@ -1790,7 +1790,7 @@
 							"containerChangeable": true,
 							"left": 640,
 							"top": 504,
-							"width": 184,
+							"width": 299,
 							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWpIhjZxxGgu8="
@@ -3475,7 +3475,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 595,
-									"top": 338,
+									"top": 343,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3495,12 +3495,12 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 568,
-									"top": 353,
+									"left": 560,
+									"top": 311,
 									"width": 60.1639404296875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": -1.656009841284352,
+									"distance": 17.11724276862369,
 									"hostEdge": {
 										"$ref": "AAAAAAGWpYk4r0mDKkc="
 									},
@@ -3520,7 +3520,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 588,
-									"top": 309,
+									"top": 314,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3539,7 +3539,7 @@
 								"$ref": "AAAAAAGWpIUaKxQE2XI="
 							},
 							"lineStyle": 1,
-							"points": "631:321;553:339",
+							"points": "631:328;553:343",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWpYk4r0mEa+o="
@@ -3673,7 +3673,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 591,
-									"top": 552,
+									"top": 551,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3693,12 +3693,12 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 561,
-									"top": 567,
+									"left": 568,
+									"top": 559,
 									"width": 60.1639404296875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 1.8472525150442667,
+									"distance": 23.769728648009426,
 									"hostEdge": {
 										"$ref": "AAAAAAGWpYlNT0yljjk="
 									},
@@ -3718,7 +3718,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 592,
-									"top": 523,
+									"top": 522,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3737,7 +3737,7 @@
 								"$ref": "AAAAAAGWpIhjZxxFgJI="
 							},
 							"lineStyle": 1,
-							"points": "639:545;545:543",
+							"points": "639:544;545:542",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWpYlNT0ymFiA="
@@ -3793,11 +3793,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 564,
-									"top": 723,
+									"top": 712,
 									"width": 60.1639404296875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 1.543069019698874,
+									"distance": 18.027756377319946,
 									"hostEdge": {
 										"$ref": "AAAAAAGWpYlXN04GOkY="
 									},
@@ -4023,7 +4023,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "정렬 기준 변경",
+					"name": "과거 이용 내역 대여소별 정렬 기준 변경",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -4077,7 +4077,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "정렬 기준 변경",
+					"name": "자전거 대여 정보 지역별 정렬 기준 변경",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
