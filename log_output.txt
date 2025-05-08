@@ -1,3 +1,5 @@
+https://github.com/Marouchee/SW_engineering_13_group
+
 [minsssssd] Thu May 8 19:42:46 2025 +0900 usecase description 수정 3fbf750
 [minsssssd] Thu May 8 17:23:13 2025 +0900 13조 usecase description 취합본 f6ff84f
 [AvoChang] Thu May 8 14:43:59 2025 +0900 description 수정, 팀코드 기재 86d0906
