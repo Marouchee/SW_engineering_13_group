@@ -1,0 +1,56 @@
+[minsssssd] Thu May 8 19:42:46 2025 +0900 usecase description 수정 3fbf750
+[minsssssd] Thu May 8 17:23:13 2025 +0900 13조 usecase description 취합본 f6ff84f
+[AvoChang] Thu May 8 14:43:59 2025 +0900 description 수정, 팀코드 기재 86d0906
+[AvoChang] Thu May 8 14:39:39 2025 +0900 description 수정, 역할분담 기재 0500330
+[BK_] Thu May 8 02:55:16 2025 +0900 UseCaseDiagram_1차_취합 ed4616d
+[DESKTOP-QHHJQCN\User] Thu May 8 02:28:19 2025 +0900 Create description_Bogyeong.xlsx a54002c
+[DESKTOP-QHHJQCN\User] Thu May 8 02:26:58 2025 +0900 list 최종, description 수정 b302a27
+[BK_] Thu May 8 02:11:06 2025 +0900 송범규_use_case_description_수정2 21aaa4d
+[AvoChang] Thu May 8 01:50:43 2025 +0900 Create log_output.txt e6d1d3d
+[BK_] Thu May 8 01:34:22 2025 +0900 useCaseDescription_수정 ea8cb63
+[AvoChang] Thu May 8 01:23:21 2025 +0900 Create 오창현UseCaseDescription.xlsx 0996a00
+[BK_] Thu May 8 00:20:44 2025 +0900 Merge branch 'main' of https://github.com/Marouchee/SW_engineering_13_group 222958f
+[BK_] Thu May 8 00:20:37 2025 +0900 Requirements_List_수정2 81e4292
+[AvoChang] Thu May 8 00:19:02 2025 +0900 탈퇴기능 사용자->회원 수정 04a93e9
+[AvoChang] Thu May 8 00:15:53 2025 +0900 Merge branch 'main' of https://github.com/Marouchee/SW_engineering_13_group 36f94b8
+[AvoChang] Thu May 8 00:15:40 2025 +0900 로그인아웃 수정 및 requirement list 수정 8b15a2d
+[BK_] Thu May 8 00:14:49 2025 +0900 Merge branch 'main' of https://github.com/Marouchee/SW_engineering_13_group bb2a39c
+[BK_] Thu May 8 00:14:32 2025 +0900 Requirements_List_수정 b2f0a96
+[AvoChang] Thu May 8 00:05:57 2025 +0900 requirement list update 창현 ff3a3f8
+[BK_] Wed May 7 23:44:40 2025 +0900 5.7 useCaseDiagram 수정2 0b3c46a
+[BK_] Wed May 7 23:42:52 2025 +0900 5.7 useCaseDiagram 수정 d90f493
+[AvoChang] Wed May 7 23:34:04 2025 +0900 송범규 branch merge 및 파일분류 ad5aefe
+[AvoChang] Wed May 7 23:32:37 2025 +0900 Merge branch '1557' 68418e4
+[AvoChang] Wed May 7 23:32:14 2025 +0900 minseok branch merge 및 파일분류 21fbeeb
+[AvoChang] Wed May 7 23:31:02 2025 +0900 Merge branch 'minseok_test' 423b60a
+[AvoChang] Wed May 7 23:29:59 2025 +0900 오창현,변보경merge 및 파일분류 e377176
+[minsssssd] Wed May 7 23:29:13 2025 +0900 05.07 use case diagram 수정2 057f383
+[AvoChang] Wed May 7 23:27:02 2025 +0900 Merge branch 'havo_test' ba05bf9
+[minsssssd] Wed May 7 23:26:52 2025 +0900 05.07 usecase diagram 수정 b2c4477
+[AvoChang] Wed May 7 23:23:31 2025 +0900 usecase diagram mdj 수정 9a08934
+[AvoChang] Wed May 7 23:12:53 2025 +0900 usecaseidagram 선정 18da313
+[AvoChang] Wed May 7 23:02:53 2025 +0900 Description Upload 4f6d1bc
+[DESKTOP-QHHJQCN\User] Wed May 7 20:35:35 2025 +0900 불필요한 파일 삭제 7f98bf7
+[DESKTOP-QHHJQCN\User] Wed May 7 20:32:02 2025 +0900 png 추가 b32f890
+[DESKTOP-QHHJQCN\User] Wed May 7 20:25:28 2025 +0900 description 추가 62bd3b7
+[DESKTOP-QHHJQCN\User] Wed May 7 18:07:00 2025 +0900 25.05.07 e409394
+[BK_] Wed May 7 18:02:29 2025 +0900 useCaseDescription_add 162d943
+[minsssssd] Wed May 7 14:43:34 2025 +0900 05.07 description 수정 6808378
+[minsssssd] Wed May 7 03:21:06 2025 +0900 05.07 수정본 c2e6c34
+[minsssssd] Wed May 7 02:56:44 2025 +0900 . ddb2eb3
+[AvoChang] Wed May 7 02:48:27 2025 +0900 uml 수정 및 requirementlist 업로드 0657b9e
+[AvoChang] Wed May 7 02:38:42 2025 +0900 Create_UseCase_Diagram 2f6dd07
+[BK_] Tue May 6 23:04:12 2025 +0900 Requirements_List/useCaseDiagram 수정 2fb0782
+[minsssssd] Tue May 6 21:44:15 2025 +0900 usecase diagram 코드 수정 76baca2
+[minsssssd] Tue May 6 21:37:33 2025 +0900 Create Usecase diagram 메모장 코드.txt a5506b1
+[DESKTOP-QHHJQCN\User] Tue May 6 21:03:06 2025 +0900 Create usecase_변보경.png 123f92b
+[minsssssd] Tue May 6 20:44:31 2025 +0900 Create Usecase diagram json.mdj 0b9e136
+[minsssssd] Tue May 6 20:37:01 2025 +0900 Create UseCase Diagram.pdf 7af06a2
+[minsssssd] Tue May 6 20:28:21 2025 +0900 . 156da94
+[minsssssd] Tue May 6 20:09:52 2025 +0900 Create Functional requirement list.pdf 1c206ba
+[BK_] Tue May 6 17:30:14 2025 +0900 useCaseDiagram_add e9e55e3
+[BK_] Tue May 6 17:26:03 2025 +0900 Update Functional_Requirements_List 15b0907
+[BK_] Tue May 6 15:42:11 2025 +0900 Create_Funtional_Requirements_list_prototype 0261051
+[DESKTOP-QHHJQCN\User] Tue May 6 01:01:15 2025 +0900 25.05.06 과제1 b1fb373
+[DESKTOP-QHHJQCN\User] Tue May 6 00:53:38 2025 +0900 25.05.06 과제1 80147d8
+[AvoChang] Sat May 3 23:53:21 2025 +0900 Initial commit 2198a42
